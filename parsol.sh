@@ -41,8 +41,7 @@ if [ ! -f ./tg/tgcli ]; then
     echo "tg not found"
     echo "Run $0 install"
     exit 1
- fi
-
+ f
 
    print_logo
    echo -e "\033[38;5;208m"
